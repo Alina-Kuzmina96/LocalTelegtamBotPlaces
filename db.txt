@@ -1,0 +1,3 @@
+create database users;
+use users;
+create table place(id char(50), name char(50), adress char(50), latitide char(50), longitude char(50), image char(100));
